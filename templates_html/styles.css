@@ -1,0 +1,280 @@
+#imagen-logo{
+    margin-left: 141px;
+
+}
+
+#name-input{
+    margin-top: 0px;
+    left: 885px;
+    width: 200px;
+    height: 35px;
+    border: 0;
+    
+    background: var(--grisulado-1-fondo-secundario) 0% 0% no-repeat padding-box;
+    background: #F3F6F9 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+    }
+
+.vinculos{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-24) var(--unnamed-font-family-open-sans);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--celeste-50-texto-enlace);
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal normal 16px/24px Open Sans;
+    letter-spacing: 0px;
+    color: #007BC7;
+    opacity: 1;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    
+}
+
+.header{
+    top: 90px;
+    left: 0px;
+    width: 1366px;
+    height: 339px;
+    background: var(--grisulado-1-fondo-secundario) 0% 0% no-repeat padding-box;
+    background: #F3F6F9 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.texto-covid{
+    left: 141px;
+    width: 712px;
+    height: 50px;
+
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-37)/var(--unnamed-line-spacing-44) var(--unnamed-font-family-nunito);
+    letter-spacing: var(--unnamed-character-spacing--0-07);
+    color: var(--grisulado-90-38485c);
+    text-align: left;
+    font: normal normal bold 37px/44px Nunito;
+    letter-spacing: -0.07px;
+    color: #38485C;
+    opacity: 1;
+    }
+
+.texto-header{
+    top: 0px;
+    left: 0px;
+    width: 487px;
+    height: 26px;
+    
+
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-19)/var(--unnamed-line-spacing-28) var(--unnamed-font-family-open-sans);
+    letter-spacing: var(--unnamed-character-spacing--0-02);
+    color: var(--grisulado-90-38485c);
+    text-align: left;
+    font: normal normal normal 19px/28px Open Sans;
+    letter-spacing: -0.02px;
+    color: #38485C
+}
+
+.card{
+    border-radius: 20px;
+    /* padding-bottom: 10%; */
+}
+
+span.container{
+    top: 356px;
+    left: 513px;
+    width: 8px;
+    height: 130px;    
+    background: var(--amarillo-40-default) 0% 0% no-repeat padding-box;
+    background: #FFDB2E 0% 0% no-repeat padding-box;
+    border-radius: 15px 0px 0px 15px;
+    opacity: 1;
+}
+
+
+.consulta{
+    padding-top: 70px;
+    padding-left: 60px;
+    background: lightblue;
+    background-image:  url(../imagenes/phone-img.png) ;
+    border-radius: 7px;
+    background-position-x: right ;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+
+.formulario{
+    padding-right: 200px;
+}
+
+.pregunta{
+    margin-right: 85px;
+}
+
+.diseño{
+    width: 300px;
+    border: 0px;
+    height: 45px;
+    border-radius: 6px;
+}
+
+.btn{
+    background: #FFDB2E;
+}
+
+.btn-wrapper{
+    padding-top: 20px;
+}
+
+
+.form{
+    padding-bottom: 70px;
+}
+
+.titulos{
+    top: 1092px;
+left: 141px;
+width: 340px;
+height: 28px;
+
+
+
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-600) var(--unnamed-font-size-21)/var(--unnamed-line-spacing-28) var(--unnamed-font-family-nunito);
+letter-spacing: var(--unnamed-character-spacing--0-02);
+color: var(--celeste-50-texto-enlace);
+text-align: left;
+font: normal normal 600 21px/28px Nunito;
+letter-spacing: -0.02px;
+color: #007BC7;
+opacity: 1;
+}
+
+.propuesta{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.tarjetas{
+    top: 1316px;
+    left: 141px;
+    width: 1300px;
+    height: 254px;
+    
+
+/* background: transparent url('img/Enmascarar grupo 173.png') 0% 0% no-repeat padding-box;
+opacity: 1; */
+}
+
+.individual{
+    margin-left: 30px;
+}
+
+.titulo-card{
+    top: 1594px;
+    left: 165px;
+    width: 292px;
+    height: 28px;
+
+
+
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-600) var(--unnamed-font-size-21)/var(--unnamed-line-spacing-28) var(--unnamed-font-family-nunito);
+    letter-spacing: var(--unnamed-character-spacing--0-02);
+    color: var(--celeste-50-texto-enlace);
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal 600 21px/28px Nunito;
+    letter-spacing: -0.02px;
+    color: #007BC7;
+    opacity: 1;
+    }
+
+.parrafo{
+    top: 1630px;
+    left: 909px;
+    width: 292px;
+    height: 46px;
+    
+    
+    
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-24) var(--unnamed-font-family-open-sans);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--grisulado-90-38485c);
+    text-align: left;
+    font: normal normal normal 16px/24px Open Sans;
+    letter-spacing: 0px;
+    color: #38485C;
+    opacity: 1;
+    }
+
+.header2{
+    background: var(--grisulado-1-fondo-secundario) 0% 0% no-repeat padding-box;
+    background: #F3F6F9 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 150px;
+    /* margin-bottom: 200px; */
+    padding-bottom: 30px;
+}
+
+
+.prevencion1{
+    margin-top: 70px;
+}
+
+
+.informacion{
+    padding-top: 50px;
+}
+
+#texto-in{
+    padding-top: 30px;
+}
+
+.btn2{
+    margin-left: 20px;
+    background: #38485C;
+    color: white;
+}
+
+
+.card-info{
+    border:0px;
+}
+
+.info-gob{
+    top: 3060px;
+    left: 515px;
+    width: 336px;
+    height: 22px;
+    margin-left:350px;
+
+
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-24) var(--unnamed-font-family-open-sans);
+    letter-spacing: var(--unnamed-character-spacing--0-02);
+    color: var(--grisulado-90-38485c);
+    text-align: center;
+    font: normal normal bold 16px/24px Open Sans;
+    letter-spacing: -0.02px;
+    color: #38485C;
+    opacity: 1;
+}
+
+#vinculos2{
+    top: 3112px; 
+    left: 10px;
+    width: 40px;
+    height: 22px;
+    padding-left: 0px;
+
+
+
+
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-24) var(--unnamed-font-family-open-sans);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--celeste-50-texto-enlace);
+    text-align: center;
+    font: normal normal normal 16px/24px Open Sans;
+    letter-spacing: 0px;
+    color: #007BC7;
+    opacity: 1;
+}
+
+.top{
+    margin-left: 0px;
+}
